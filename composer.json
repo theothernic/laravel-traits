@@ -1,5 +1,5 @@
 {
-    "name": "theothernic/laraveltraits",
+    "name": "theothernic/laravel-traits",
     "type": "library",
     "autoload": {
         "psr-4": {
